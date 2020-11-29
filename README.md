@@ -1,6 +1,4 @@
 ## Installation
-```
-
 Install required packages
 ```bash
 composer install
